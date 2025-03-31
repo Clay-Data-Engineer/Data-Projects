@@ -1,0 +1,82 @@
+id;id_empresa;setor
+1;6;Sales
+2;6;Marketing
+3;19;Engineering
+4;8;Product Management
+5;19;Human Resources
+6;2;Product Management
+7;19;Training
+8;9;Human Resources
+9;6;Support
+10;14;Training
+11;10;Product Management
+12;20;Business Development
+13;18;Business Development
+14;16;Services
+15;17;Legal
+16;16;Product Management
+17;10;Accounting
+18;11;Support
+19;12;Business Development
+20;7;Legal
+21;9;Engineering
+22;19;Business Development
+23;1;Engineering
+24;16;Business Development
+25;1;Support
+26;19;Legal
+27;5;Business Development
+28;18;Product Management
+29;2;Human Resources
+30;12;Support
+31;14;Legal
+32;15;Engineering
+33;10;Human Resources
+34;1;Training
+35;15;Sales
+36;13;Engineering
+37;15;Legal
+38;5;Legal
+39;13;Research and Development
+40;3;Marketing
+41;5;Support
+42;1;Legal
+43;5;Marketing
+44;20;Human Resources
+45;1;Product Management
+46;19;Product Management
+47;8;Support
+48;20;Support
+49;3;Research and Development
+50;14;Services
+51;12;Marketing
+52;14;Human Resources
+53;10;Legal
+54;19;Support
+55;12;Accounting
+56;9;Training
+57;17;Human Resources
+58;17;Engineering
+59;12;Legal
+60;10;Engineering
+61;14;Business Development
+62;18;Marketing
+63;6;Training
+64;5;Sales
+65;11;Marketing
+66;5;Engineering
+67;18;Support
+68;13;Business Development
+69;11;Sales
+70;16;Marketing
+71;9;Marketing
+72;17;Marketing
+73;8;Services
+74;9;Sales
+75;14;Support
+76;8;Sales
+77;10;Business Development
+78;11;Research and Development
+79;6;Business Development
+80;8;Training
+81;2;Training
